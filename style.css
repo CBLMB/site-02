@@ -8,3 +8,15 @@ font-size:{
 }
 p1{font-family: cursive; font-size: 30px
 }
+
+ body{
+font-size: 18px;
+ }
+ .titulo{
+   font-family: cursive; font-size: 30px
+ }
+
+  .vegetariano {
+    font-family: cursive; font-size: 30px
+  }
+}
