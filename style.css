@@ -21,10 +21,10 @@ font-size: 18px;
   }
 }
 
-  .Aves{
+  .aves{
   	font-family: cursive; font-size: 30px
-  }
+  	 }
 
-  .Carne{
-  	font-family: cursive; font-size: 30px
-  }
+  	 .carne{
+  	 	font-family: cursive; font-size: 30px
+  	 }
