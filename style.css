@@ -1,30 +1,30 @@
 
-font-size:{
-  20px
-}
-
 .cardápio{
   background-color: powderblue
 }
-p1{font-family: cursive; font-size: 30px
+p1{
+  font-family: cursive; font-size: 35px
 }
 
  body{
-font-size: 18px;
- }
+font-size: 22px;
+}
  .titulo{
-   font-family: cursive; font-size: 30px
- }
-
-  .vegetariano {
-    font-family: cursive; font-size: 30px
-  }
+   font-family: cursive; font-size: 35px
 }
 
-  .aves{
-  	font-family: cursive; font-size: 30px
-  	 }
+  .vegetariano {
+    font-family: cursive; font-size: 35px
+}
 
-  	 .carne{
-  	 	font-family: cursive; font-size: 30px
-  	 }
+.aves{
+  	font-family: cursive; font-size: 35px
+}
+
+.carne{
+font-family: cursive; font-size: 35px;
+}
+
+.peixe{
+  font-family: cursive; font-size: 35px;
+}
