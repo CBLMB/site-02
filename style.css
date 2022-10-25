@@ -1,5 +1,6 @@
 
 .cardápio{
+	font-family: courier new;
   background-color: powderblue
 }
 p1{
@@ -13,6 +14,16 @@ font-size: 22px;
    font-family: cursive; font-size: 35px
 }
 
+ .seguidos{
+ 	border: 4px solid black;
+ 	border-radius: 25px;
+ }
+
+ .inicio{
+ 	border: 4px solid black;
+ 	border-radius: 25px;
+ }
+
   .vegetarianos {
     font-family: cursive;
     font-size: 35px
@@ -24,20 +35,45 @@ font-size: 22px;
   border-radius: 25px;
 }
 
+ .passaro{
+ 	border: 4px solid black;
+ 	border-radius: 25px;
+ }
+
 .aves{
   	font-family: cursive; font-size: 35px
 }
 
+ .alimento{
+ 	border: 4px solid black;
+ 	border-radius: 25px;
+ }
+  
 .carne{
 font-family: cursive; font-size: 35px;
+}
+
+.marinho{
+	border: 4px solid black;
+	border-radius: 25px;
 }
 
 .peixe{
   font-family: cursive; font-size: 35px;
 }
 
+.doce{
+	border: 4px solid black;
+	border-radius: 25px;
+}
+
 .sobremesa{
   font-family: cursive; font-size: 35px;
+}
+
+.liquido{
+	border: 4px solid black;
+	border-radius: 25px;
 }
 
 
